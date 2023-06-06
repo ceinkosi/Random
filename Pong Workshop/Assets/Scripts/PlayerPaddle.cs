@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerPadel : Paddle
+public class PlayerPaddle : Paddle
 {
     private Vector2 _direction;
     void Update()
